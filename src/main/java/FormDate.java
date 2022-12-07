@@ -1,5 +1,5 @@
 public class FormDate {
-     public day[] getDay;
-    }
+    public int day;
+    public int mouth;
+    public int year;
 }
-
